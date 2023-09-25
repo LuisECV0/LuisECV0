@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Actualmente estoy aprendiendo  HTML, CSS, JavaScript, React y  PHP<br>- 📫 Cómo contactarme: www.linkedin.com/in/luis-castañeda-vega-9793bb258
+- 🌱 Actualmente estoy aprendiendo  HTML, CSS, SASS, JavaScript, React, Node.js y  PHP<br>- 📫 Cómo contactarme: www.linkedin.com/in/luis-castañeda-vega-9793bb258
 
 
 ## 🌐 Socials:
