@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Conocimentos actuales en tecnologías como C#, React, JavaScript, SASS, CSS, HTML, Node.js, Figma, GIT y PHP<br>- 📫 Cómo contactarme: www.linkedin.com/in/luis-castañeda-vega-9793bb258
+- 🌱 Conocimentos actuales en tecnologías como C#, React, JavaScript, SASS, CSS, HTML, Node.js, Figma, GIT y PHP<br>- 📫 Cómo contactarme: www.linkedin.com/in/luis-castañeda-vega
 
 
 ## 🌐 Socials:
